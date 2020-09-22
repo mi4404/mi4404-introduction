@@ -36,8 +36,15 @@ This is an image of one of my favorite foods. It's an image of chicken paratha w
 
 [Here](http://www.se.rit.edu/) is a cool link to the Software Engineering Department website at RIT!
 
+### Course Expectations
 
-
+From this course, I'd love to learn the following:
+<ul>
+  <li>Design Process</li>
+  <li>Team Working Skills</li>
+  <li>Hands On Experience with a Project</li>
+  <li>More about Software Engineering</li>
+<ul>
 ```markdown
 Syntax highlighted code block
 
