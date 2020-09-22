@@ -29,7 +29,7 @@ I don't play many games because I'm on MacOS and it can be hard to find games fo
 
 This is an image of one of my favorite foods. It's an image of chicken paratha with a side of raita! 
 
-![]https://www.archanaskitchen.com/images/archanaskitchen/0-Affiliate-Articles/Breakfast_Plate_Preethi_Kitchen_Appliances_Lehsun_Pudina_Chutney_Aloo_Paratha_Tomato_Onion_Tadka_Raita_Recipe-1-2.jpg]
+![Image](https://www.archanaskitchen.com/images/archanaskitchen/0-Affiliate-Articles/Breakfast_Plate_Preethi_Kitchen_Appliances_Lehsun_Pudina_Chutney_Aloo_Paratha_Tomato_Onion_Tadka_Raita_Recipe-1-2.jpg)
 
 
 
