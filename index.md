@@ -1,12 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/mi4404/mi4404-introduction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I'm Maisha Iqbal and I'm a freshman in Software Engineering at RIT. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+I'm from Alabama and I used to go to an art school with a dormitory called the Alabama School of Fine Arts. There, I majored in Math/Science so I wasn't really an art student but I took a bunch of cool art classes. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A couple of my hobbies include:
+- Filming
+- Embroidery
+- Cooking
+- Watching cool videos
+
+I love listening to music and finding new artists. Though I don't have a single favorite artist, I have a couple artists I've been listening to constantly over the week. 
+These include: 
+- Low Hum
+- S+C+A+R+R
+- 53 Thieves 
+- Jamie xx
+- Flume
+- Droeloe 
+
+I don't play many games because I'm on MacOS and it can be hard to find games for it. But the one game I used to play a lot is League of Legends because it could run pretty well on my old MacBook Air. Though nowadays, I don't play as often and I exclusively play with friends. 
 
 ```markdown
 Syntax highlighted code block
