@@ -34,8 +34,8 @@ This is an image of one of my favorite foods. It's an image of chicken paratha w
 
 ### Software Engineering Website @ RIT
 
-Below is a cool link to the Software Engineering Department website at RIT!
-[Link](http://www.se.rit.edu/)
+[Here](http://www.se.rit.edu/) is a cool link to the Software Engineering Department website at RIT!
+
 
 
 ```markdown
