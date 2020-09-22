@@ -32,6 +32,11 @@ This is an image of one of my favorite foods. It's an image of chicken paratha w
 ![Image](https://www.archanaskitchen.com/images/archanaskitchen/0-Affiliate-Articles/Breakfast_Plate_Preethi_Kitchen_Appliances_Lehsun_Pudina_Chutney_Aloo_Paratha_Tomato_Onion_Tadka_Raita_Recipe-1-2.jpg)
 
 
+### Software Engineering Website @ RIT
+
+Below is a cool link to the Software Engineering Department website at RIT!
+[Link](http://www.se.rit.edu/)
+
 
 ```markdown
 Syntax highlighted code block
