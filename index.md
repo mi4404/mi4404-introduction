@@ -2,6 +2,8 @@
 
 Hello! I'm Maisha Iqbal and I'm a freshman in Software Engineering at RIT. 
 
+![](https://cdn.discordapp.com/attachments/112616606735024128/738904724115292180/image0.gif)
+
 ### Introduction
 
 I'm from Alabama and I used to go to an art school with a dormitory called the Alabama School of Fine Arts. There, I majored in Math/Science so I wasn't really an art student but I took a bunch of cool art classes. 
