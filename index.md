@@ -25,6 +25,14 @@ These include:
 
 I don't play many games because I'm on MacOS and it can be hard to find games for it. But the one game I used to play a lot is League of Legends because it could run pretty well on my old MacBook Air. Though nowadays, I don't play as often and I exclusively play with friends. 
 
+### Favorite Food
+
+This is an image of one of my favorite foods. It's an image of chicken paratha with a side of raita! 
+
+![https://www.archanaskitchen.com/images/archanaskitchen/0-Affiliate-Articles/Breakfast_Plate_Preethi_Kitchen_Appliances_Lehsun_Pudina_Chutney_Aloo_Paratha_Tomato_Onion_Tadka_Raita_Recipe-1-2.jpg]
+![Image]
+
+
 ```markdown
 Syntax highlighted code block
 
